@@ -1,6 +1,6 @@
 import React from 'react'
-// import countrydata from '../countrydata';
-import Country from './country';
+
+
 
 
 const Searchbar = ({setQuery}) => {
