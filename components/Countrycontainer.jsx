@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import Country from "./country";
+import Country from "./Country";
 import { useState } from "react";
 import Shimmercountrylist from "./Shimmercountrylist";
 import { useLocation } from "react-router";
